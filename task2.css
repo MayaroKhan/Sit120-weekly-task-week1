@@ -1,0 +1,16 @@
+/* style for p tag */
+p{
+    color: rgb(211, 28, 28);
+}
+/* style for title class*/
+.title{
+    color: rgb(50, 215, 108);
+}
+#container{
+    border: 5px solid blue;
+    font-size: medium;
+}
+img{
+    height: 500px;
+    width: 800px;
+}
